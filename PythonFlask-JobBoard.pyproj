@@ -24,6 +24,7 @@
     <Content Include="jobs\static\css\app.css" />
     <Content Include="jobs\static\css\bulma.min.css" />
     <Content Include="jobs\templates\index.html" />
+    <Content Include="jobs\templates\layout.html" />
     <Content Include="pytest.ini" />
     <Content Include="requirements.txt" />
     <Content Include="templates.html" />
